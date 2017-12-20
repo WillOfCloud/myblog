@@ -16,3 +16,4 @@ footer_template: "模板来自"
 footer_template_site: "https://github.com/cody1991/cody1991.github.io"
 port: 8070
 gems: [jekyll-paginate]
+highlighter: rouge
