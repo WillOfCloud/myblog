@@ -12,7 +12,7 @@ paginate_path: "/page:num"
 #footer_github: "GitHub"
 #footer_resume: "简历"
 #footer_resume_site: "https://cody1991.github.io/aboutme/index.html"
-footer_template: "博客模板"
-footer_template_site: "cody1991/cody1991.github.io"
+footer_template: "模板来自"
+footer_template_site: "https://github.com/cody1991/cody1991.github.io"
 port: 8070
 gems: [jekyll-paginate]
